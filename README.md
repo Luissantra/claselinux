@@ -1,2 +1,2 @@
 # claselinux
-prueba finalizada
+prueba finalizada con exito
