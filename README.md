@@ -1,4 +1,4 @@
 # claselinux
 prueba finalizada con exito
 
-gestion desde visualstudio 
+gestion desde visual
